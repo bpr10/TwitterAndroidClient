@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrendingTweets</string>
+    <string name="no_internet_body">There seems to be a network problem.\nPlease check that your internet is switched on.</string>
+    <string name="hint_search">Search</string>
+
+    <string name="title_activity_media_view">MediaVIew</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

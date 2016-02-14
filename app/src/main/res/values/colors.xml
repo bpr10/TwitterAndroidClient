@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#55acee</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="seperator_color_black_12">#1F000000</color>
+    <color name="black_alpha_30">#4D000000</color>
+    <color name="white_alpha_30">#4Dffffff</color>
+    <color name="black_alpha_12">#1F000000</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
